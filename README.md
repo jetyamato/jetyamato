@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseph Emmanuel F. Tamayo</h1>
-<h3 align="center">An aspiring, passionate frontend developer from the Philippines</h3>
+<h3 align="center">An aspiring, passionate software developer from the Philippines</h3>
 
 - 🌱 I’m currently learning **C#, Python, React.js, Node.js, JavaScript**
 
