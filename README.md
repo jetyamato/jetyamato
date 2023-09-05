@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C#, Python, React.js, Node.js, JavaScript**
 
-- 📫 How to reach me **josephtamayo95@hotmail.com, tamayo209@gmail.com**
+- 📫 How to reach me **josephtamayo95@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
