@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joseph Emmanuel F. Tamayo</h1>
 <h3 align="center">An aspiring, passionate software developer from the Philippines</h3>
 
-- 🌱 I’m currently learning <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </p>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/666ead975a1e5ea6c26abe2c?variant=dark&roadmaps=frontend%2Cbackend%2Cdevops" alt="roadmap.sh"/></a>
 
 - 📫 How to reach me **josephtamayo95@hotmail.com**
 
